@@ -1,0 +1,28 @@
+{
+    "users": [
+        {
+            "Name": "mohan",
+            "Age": 45,
+            "Gender": "male",
+            "Disease": "Migraine",
+            "Sympts": [
+                "acidity",
+                "acidity",
+                "indigestion",
+                "excessive_hunger"
+            ]
+        },
+        {
+            "Name": "mohan",
+            "Age": 45,
+            "Gender": "male",
+            "Disease": "GERD",
+            "Sympts": [
+                "stomach_pain",
+                "stomach_pain",
+                "acidity",
+                "ulcers_on_tongue"
+            ]
+        }
+    ]
+}
